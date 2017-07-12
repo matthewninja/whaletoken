@@ -725,3 +725,7 @@
 .blurb3 {
   font-size: 15px;
 }
+
+.blurb4 {
+  overflow-x:scroll;
+}
